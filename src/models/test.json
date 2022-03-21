@@ -1,0 +1,88 @@
+[
+    {
+        "id": "60d89e0c67e67928d4195016",
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "city": "Gwenborough",
+        "moviesWatched": [
+            {
+                "movies": [
+                    {
+                        "genres": [
+                            "Drama",
+                            "Science-Fiction",
+                            "Thriller"
+                        ],
+                        "id": "60ce5b7bd0b46a2f54e6b917",
+                        "name": "Under the Dome",
+                        "image": "https://static.tvmaze.com/uploads/images/medium_portrait/81/202627.jpg",
+                        "premiered": "2013-06-24"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "60d89e0c67e67928d4195017",
+        "name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "city": "Wisokyburgh",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d4195018",
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "city": "McKenziehaven",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d4195019",
+        "name": "Patricia Lebsack",
+        "email": "Julianne.OConner@kory.org",
+        "city": "South Elvis",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d419501a",
+        "name": "Chelsey Dietrich",
+        "email": "Lucio_Hettinger@annie.ca",
+        "city": "Roscoeview",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d419501b",
+        "name": "Mrs. Dennis Schulist",
+        "email": "Karley_Dach@jasper.info",
+        "city": "South Christy",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d419501c",
+        "name": "Kurtis Weissnat",
+        "email": "Telly.Hoeger@billy.biz",
+        "city": "Howemouth",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d419501d",
+        "name": "Nicholas Runolfsdottir V",
+        "email": "Sherwood@rosamond.me",
+        "city": "Aliyaview",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d419501e",
+        "name": "Glenna Reichert",
+        "email": "Chaim_McDermott@dana.io",
+        "city": "Bartholomebury",
+        "moviesWatched": []
+    },
+    {
+        "id": "60d89e0c67e67928d419501f",
+        "name": "Clementina DuBuque",
+        "email": "Rey.Padberg@karina.biz",
+        "city": "Lebsackbury",
+        "moviesWatched": []
+    }
+]
